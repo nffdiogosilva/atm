@@ -1,0 +1,15 @@
+1234,0010029289641272009,Rui Filipe Tavares Melo,cliente1.dat
+5678,0010026622968281736,João Paulo Sousa Raposo,cliente2.dat
+9012,0010037282970916833,Luis Carlos Correia Almeida,cliente3.dat
+3456,0010028278724628282,Ana Maria da Silva Pereira Rodrigues,cliente4.dat
+7890,0010049270025555522,Mário João Costa Pereira,cliente5.dat
+1357,0010011621231820012,Natália de Melo e Castro,cliente6.dat
+9135,0010035565008121839,Pedro Paulo Ferreira Dias,cliente7.dat
+7913,0010019235256537783,Paulo Alexandre Alves Cordeiro,cliente8.dat
+5791,0010019332724925532,André Miguel Dias Benevides,cliente9.dat
+3579,0010030128318008273,Carolina Menezes Rodrigues,cliente10.dat
+2468,0010024553858829932,Ricardo Soares Botelho,cliente11.dat
+1480,0010049193512451234,Henrique Medeiros Ponte,cliente12.dat
+2591,0010043826763729182,Francisco Miguel da Cruz Fonseca,cliente13.dat
+3602,0010013722887818475,Teresa Freitas Pereira,cliente14.dat
+4826,0010028127209337193,Leonardo Carreiro Sousa,cliente15.dat
