@@ -15,6 +15,6 @@ All of the menu output is in portuguese. You can read the projects requirements 
 
 ## Authors
 
-Miguel Gouveira Oliveira
-Nuno Diogo da Silva (me)
-Paulo Dinis Vieira Silva
+* Miguel Gouveira Oliveira
+* Nuno Diogo da Silva (me)
+* Paulo Dinis Vieira Silva
